@@ -1,0 +1,10 @@
+C:\ASP.NET\ProjectPaint\bin\Debug\ProjectPaint.exe.config
+C:\ASP.NET\ProjectPaint\bin\Debug\ProjectPaint.exe
+C:\ASP.NET\ProjectPaint\bin\Debug\ProjectPaint.pdb
+C:\ASP.NET\ProjectPaint\obj\Debug\ProjectPaint.csprojAssemblyReference.cache
+C:\ASP.NET\ProjectPaint\obj\Debug\ProjectPaint.Paint.resources
+C:\ASP.NET\ProjectPaint\obj\Debug\ProjectPaint.Properties.Resources.resources
+C:\ASP.NET\ProjectPaint\obj\Debug\ProjectPaint.csproj.GenerateResource.cache
+C:\ASP.NET\ProjectPaint\obj\Debug\ProjectPaint.csproj.CoreCompileInputs.cache
+C:\ASP.NET\ProjectPaint\obj\Debug\ProjectPaint.exe
+C:\ASP.NET\ProjectPaint\obj\Debug\ProjectPaint.pdb
